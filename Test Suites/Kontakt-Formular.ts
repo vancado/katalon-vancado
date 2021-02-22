@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Vancado Kontakt-Formular</name>
+   <name>Kontakt-Formular</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,9 +10,9 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>d7013384-f86f-40c4-bfb5-2e3c14ac8e16</testSuiteGuid>
+   <testSuiteGuid>74b855cb-10e1-4dd0-ba86-65a2f236b095</testSuiteGuid>
    <testCaseLink>
-      <guid>40e90170-0457-4bb8-8e45-4d24045b6e2a</guid>
+      <guid>b076b647-9010-4a96-a570-0933fe8ec160</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Base test</testCaseId>
