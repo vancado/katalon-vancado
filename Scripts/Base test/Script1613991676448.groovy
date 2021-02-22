@@ -32,4 +32,5 @@ WebUI.openBrowser('https://vancado.intern.vancado73.develop/kontakt')
 def driver = DriverFactory.getWebDriver()
 String baseUrl = 'https://vancado.intern.vancado73.develop/kontakt'
 selenium = new WebDriverBackedSelenium(driver, baseUrl)
+Thread.sleep(5000);
 WebUI.verifyEqual('KONTAKT', selenium.getText('css=h1'))
